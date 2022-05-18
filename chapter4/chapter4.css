@@ -10,7 +10,6 @@
   height: 120px; /* 高さ120px */
   background-color: red; /* 背景色red */
 }
-
 .header-top {
   width: 100%; /* 横幅いっぱい */
   height: 70px; /* 高さ100px */
@@ -36,7 +35,6 @@
 }
 .main {
   width: 840px; /* 横幅いっぱい */
-    /* background-color, heightの指定を解除 */
 
   display: flex; /* Flexboxの利用 */
   justify-content: center; /* 子要素の横並び・中央寄せ */
